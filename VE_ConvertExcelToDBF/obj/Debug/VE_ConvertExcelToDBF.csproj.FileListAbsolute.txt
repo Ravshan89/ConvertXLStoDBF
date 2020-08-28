@@ -1,0 +1,28 @@
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\VE_ConvertExcelToDBF.exe
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\VE_ConvertExcelToDBF.pdb
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.dll
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\SocialExplorer.FastDBF.dll
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.csprojAssemblyReference.cache
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.csproj.CoreCompileInputs.cache
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.csproj.CopyComplete
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.exe
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.pdb
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.OOXML.dll
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.OpenXml4Net.dll
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\A Paynet\Полезные программы\VE_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.xml
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\VE_ConvertExcelToDBF.exe
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\VE_ConvertExcelToDBF.pdb
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.dll
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.OOXML.dll
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\SocialExplorer.FastDBF.dll
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\bin\Debug\NPOI.xml
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.csprojAssemblyReference.cache
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.csproj.CoreCompileInputs.cache
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.csproj.CopyComplete
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.exe
+C:\Users\Altynbek\Desktop\VostokElectro_ConvertToDBF\VostokElectro_ConvertToDBF\VE_ConvertExcelToDBF\obj\Debug\VE_ConvertExcelToDBF.pdb
